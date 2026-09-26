@@ -1,0 +1,2 @@
+Enter your answers to homework 2 in this file, one answer per line.  Make
+sure to remove this text before submitting your answers.
